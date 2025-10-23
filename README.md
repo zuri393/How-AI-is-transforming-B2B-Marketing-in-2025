@@ -1,7 +1,7 @@
 # How-AI-is-transforming-B2B-Marketing-in-2025
 Still figuring out whether AI can boost your brand visibility or not? AI is paving its way through every aspect of B2B marketing in 2025. AI is expected to play a vital role in lead generation, sales outreach, and drive better results. In the emerging world of trends and technology, AI has not left any stone unturned with its algorithm giving a tough competition to the traditional methods. In the B2B industry, it has brought about a revolution in the market. AI is a game-changer for B2B marketers; it provides data-driven insights, enhances user experience, and better conversions.
 
-[<img src="path/to/image.png">]((https://ibb.co/R4hDXnjC))
+[<img src="How-AI-is-transforming-B2B-Marketing-in-2025.png">](https://github.com/zuri393/How-AI-is-transforming-B2B-Marketing-in-2025/blob/9b09d1a963fd4b49e30737cfe8956343a72ae326/How-AI-is-transforming-B2B-Marketing-in-2025.png)
 
 _Scroll down further for meaningful insights!_
 
